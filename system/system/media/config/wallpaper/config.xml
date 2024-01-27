@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+ 
+
+  <item-info> 
+    <name></name>
+	<id>wallpaperdefault</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>流光异彩;流光异彩;Flowing light</name>
+	<id>wallpaper01</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>沙幕绘彩;沙幕绘彩;Desert painting</name>
+	<id>wallpaper02</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>旋律流动;旋律流动;Melodic flow</name>
+	<id>wallpaper03</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>温婉危险;温婉危险;Gentle and dangerous</name>
+	<id>wallpaper04</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>幻彩空灵;幻彩空灵;Illusory and ethereal</name>
+	<id>wallpaper05</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>山峦夜色;山峦夜色;Mountain night</name>
+	<id>wallpaper06</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>星光璀璨;星光璀璨;Bright stars</name>
+	<id>wallpaper07</id>
+ </item-info>
+ 
+  <item-info> 
+    <name>角度之美;角度之美;Beauty of angle</name>
+	<id>wallpaper08</id>
+ </item-info>
+  <item-info> 
+    <name>建筑扭转;建筑扭转;Architectural twist</name>
+	<id>wallpaper09</id>
+ </item-info>
+  <item-info> 
+    <name>雅人深致;雅人深致;Elegant and exquisite</name>
+	<id>wallpaper10</id>
+ </item-info>
+  <item-info> 
+    <name>时尚先生;时尚先生;Mr. fashion</name>
+	<id>wallpaper11</id>
+ </item-info>
+  <item-info> 
+    <name>舞动奇迹;舞动奇迹;Dancing miracle</name>
+	<id>wallpaper12</id>
+ </item-info>
+</items>

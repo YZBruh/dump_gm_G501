@@ -1,0 +1,20 @@
+## full_k71v1_64_bsp-user 11 RP1A.200720.011 1636518238 release-keys
+- Manufacturer: general mobile
+- Platform: mt6771
+- Codename: G501
+- Brand: GM
+- Flavor: full_k71v1_64_bsp-user
+- Release Version: 11
+- Kernel Version: 4.14.186
+- Id: RP1A.200720.011
+- Incremental: 1636518238
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: GM/G501_S/G501:11/RP1A.200720.011/1636518238:user/release-keys
+- OTA version: 
+- Branch: full_k71v1_64_bsp-user-11-RP1A.200720.011-1636518238-release-keys
+- Repo: gm_g501_dump
